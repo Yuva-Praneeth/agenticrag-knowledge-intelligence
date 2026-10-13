@@ -1,0 +1,18 @@
+NovaMart Shipping and Delivery Policy
+Version: 1.0
+Effective date: 1 January 2026
+
+1. Delivery estimates
+Standard delivery usually takes 3 to 7 business days after dispatch. These are estimates, not guarantees.
+
+2. Tracking
+Customers can use the tracking link in their shipping confirmation email to view shipment progress.
+
+3. Delayed orders
+If tracking has not changed for 3 business days or the estimated delivery window has passed, the customer should contact NovaMart Support. Support checks the carrier status and provides the next steps.
+
+4. Lost packages
+If the carrier confirms a package is lost, Support escalates the case to the Shipping Operations team for investigation and resolution.
+
+5. Missing information
+This policy does not define compensation amounts for delayed shipments.

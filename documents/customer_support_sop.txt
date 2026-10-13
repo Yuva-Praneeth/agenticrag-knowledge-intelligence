@@ -1,0 +1,18 @@
+NovaMart Customer Support Standard Operating Procedure
+Version: 1.0
+Effective date: 1 January 2026
+
+1. Initial response
+Support agents should acknowledge a new customer request within one business day.
+
+2. Required details
+Before investigating an order issue, ask for the order number and a short description of the problem. Request photographs when the claim concerns damage or an incorrect item.
+
+3. Escalation
+Escalate suspected payment fraud, repeated delivery failures, safety concerns, and cases requiring an exception to a policy to the relevant specialist team.
+
+4. Evidence and communication
+Agents should summarize the steps taken, record relevant evidence in the case, and explain the next step to the customer without promising an outcome that has not been approved.
+
+5. Unsupported questions
+If approved documentation does not answer a question, do not guess. Explain that the policy documents do not contain the answer and refer the case to a supervisor when necessary.

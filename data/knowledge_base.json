@@ -1,0 +1,86 @@
+[
+  {
+    "id": "BILL-01",
+    "title": "Duplicate or unexpected charges",
+    "category": "billing",
+    "text": "If you see a duplicate or unexpected charge, compare the transaction dates and invoice history first. Pending bank authorizations can temporarily appear alongside a completed payment. If both charges settle, contact support with the invoice ID and transaction dates. Never share a full card number or password."
+  },
+  {
+    "id": "BILL-02",
+    "title": "Invoices and receipts",
+    "category": "billing",
+    "text": "Invoices and receipts are available in Account Settings under Billing History. Select the relevant transaction and choose Download receipt. If an invoice is missing, verify that the payment completed and contact support with the invoice or order reference."
+  },
+  {
+    "id": "BILL-03",
+    "title": "Payment problems",
+    "category": "billing",
+    "text": "If a payment fails, verify the billing address and that your payment method is active. Your bank may decline a transaction. Try another supported payment method or contact your bank. Do not send full payment-card details in a support message."
+  },
+  {
+    "id": "ACC-01",
+    "title": "Resetting a password",
+    "category": "account_access",
+    "text": "To reset your password, select Forgot password on the sign-in page and enter the email address on your account. Check spam or junk folders for the reset email. Reset links expire for security. Support will never ask you to disclose your password."
+  },
+  {
+    "id": "ACC-02",
+    "title": "Locked account or verification code",
+    "category": "account_access",
+    "text": "If your account is locked, wait briefly before trying again and follow the verification steps shown on screen. Confirm your device clock is correct and request a fresh verification code. If you no longer control the registered email, contact account support for identity verification."
+  },
+  {
+    "id": "ACC-03",
+    "title": "Updating profile details",
+    "category": "account_access",
+    "text": "You can usually update profile details from Account Settings. Some email changes require verification at the new address. If you cannot access the existing email, contact support rather than sharing identity documents in an unsecured chat."
+  },
+  {
+    "id": "SHIP-01",
+    "title": "Tracking a shipment",
+    "category": "delivery",
+    "text": "Open Orders, select your order, and choose Track shipment to view the latest carrier status. Tracking events can take time to update after a parcel changes facilities. If there is no update for several business days, contact support with the order reference."
+  },
+  {
+    "id": "SHIP-02",
+    "title": "Delayed, missing, or delivered package",
+    "category": "delivery",
+    "text": "For a delayed package, review the latest carrier estimate. If tracking says delivered but the package is missing, check the delivery location and ask household members or reception. If it remains missing, report it to support with the order reference. Do not post your full address publicly."
+  },
+  {
+    "id": "SHIP-03",
+    "title": "Changing or rescheduling delivery",
+    "category": "delivery",
+    "text": "Delivery changes may be available from the order page before the parcel is dispatched. Once handed to the carrier, use the carrier's supported rescheduling options. Address changes may not be possible after dispatch."
+  },
+  {
+    "id": "REF-01",
+    "title": "Refund timelines",
+    "category": "refund",
+    "text": "After a refund is approved, the time for funds to appear depends on the payment provider and bank. Check the refund status in Orders or Billing History. If the stated processing window has passed, contact support with the order reference and refund confirmation."
+  },
+  {
+    "id": "REF-02",
+    "title": "Returns and cancellations",
+    "category": "refund",
+    "text": "Return eligibility and cancellation options depend on the item and order status. Review the return policy shown with your order and start a return from Orders if available. Keep the return confirmation and tracking reference until the refund is complete."
+  },
+  {
+    "id": "TECH-01",
+    "title": "App crashes or freezes",
+    "category": "technical_issue",
+    "text": "If the app crashes or freezes, restart it, check for updates, and try again. If the issue continues, record the app version, device or browser, approximate time, and steps that reproduce the problem. Do not include passwords or secret tokens in bug reports."
+  },
+  {
+    "id": "TECH-02",
+    "title": "Website errors or slow loading",
+    "category": "technical_issue",
+    "text": "For website errors or slow loading, refresh the page, check your connection, and try a current browser or private window. If the error persists, capture the error message and steps to reproduce it. Remove personal information before sharing screenshots."
+  },
+  {
+    "id": "TECH-03",
+    "title": "Uploads, notifications, and saving",
+    "category": "technical_issue",
+    "text": "If uploads or saving fail, check file size and format, connection stability, and whether required fields are complete. For notifications, review app and device notification permissions. If the problem persists, provide the error message and reproduction steps to support."
+  }
+]
